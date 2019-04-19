@@ -1,7 +1,7 @@
 # Snek
 My first game in C++, based on popular Snake.
 
-Gra zaprojektowana i napisana przez Tadeusza Ciapała
+Gra napisana przez Tadeusza Ciapała
 ==========================================================
 
 19.04.2019
