@@ -8,6 +8,7 @@
 #include <fstream>
 #include <conio.h>
 #include <strsafe.h>
+#include <math.h>
 
 //using namespace std;
 
@@ -49,6 +50,8 @@ int main(int argc, char *argv[])
 				if (!LoadMap("map1.bin", &WallPaint))
 					continue;
 
+				srand(time(NULL));
+				
 				while (!gameOver)
 				{
 					SpawnFood(&foodX, &foodY,&IsFoodOnTable, &SnekLength, TailX, TailY);
