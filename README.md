@@ -2,7 +2,6 @@
 My first game in C++, based on popular Snake.
 
 Gra napisana przez Tadeusza Ciapała
-==========================================================
 
 19.04.2019
 
